@@ -1,0 +1,9 @@
+# SquashFS analysis output
+/output/
+
+# Sample image file
+/squashfs.img
+
+# Python cache
+__pycache__/
+*.pyc
